@@ -8,11 +8,11 @@ I'm using this repo to keep track of what I learn and different resources.
 
 ### Development
 
-- [css](knowledgewiki/development/css)
-  - [typography](knowledgewiki/development/css/typography.md)
+- [CSS](development_css_index.md)
+  - [Typography](typography.md)
 
 ### Homebrewing
 
-- [instructions](knowledgewiki/homebrewing/instructions/index.md)
-  - [extract brewing](knowledgewiki/homebrewing/instructions/extract_brewing_instructions.md)
-- [recipes](knowledgewiki/homebrewing/recipes/index.md)
+- [instructions](homebrewing_instructions_index.md)
+  - [extract brewing](extract_brewing_instructions.md)
+- [recipes](homebrewing_recipes_index.md)
