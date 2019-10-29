@@ -13,6 +13,6 @@ I'm using this repo to keep track of what I learn and different resources.
 
 ### Homebrewing
 
-- [instructions](homebrewing/instructions/index.md)
-  - [extract brewing](homebrewing/instructions/extract_brewing_instructions.md)
-- [recipes](homebrewing/recipes/index.md)
+- [Instructions](homebrewing/instructions/index.md)
+  - [Extract Brewing](homebrewing/instructions/extract_brewing_instructions.md)
+- [Recipes](homebrewing/recipes/index.md)

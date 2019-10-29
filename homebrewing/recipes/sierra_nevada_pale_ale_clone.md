@@ -38,5 +38,7 @@
 ## MEASUREMENTS
 
 **Original Gravity**: 1.066
+
 **Final Gravity**: 1.006
+
 **ABV**: 7.9%
