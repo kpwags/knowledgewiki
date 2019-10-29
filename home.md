@@ -8,7 +8,7 @@ I'm using this repo to keep track of what I learn and different resources.
 
 ### Development
 
-- [CSS](development_css_index.md)
+- [CSS](development/css/development_css_index.md)
   - [Typography](typography.md)
 
 ### Homebrewing
