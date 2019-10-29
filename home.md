@@ -8,11 +8,11 @@ I'm using this repo to keep track of what I learn and different resources.
 
 ### Development
 
-- [CSS](development/css/development_css_index.md)
-  - [Typography](typography.md)
+- [CSS](development/css/index.md)
+  - [Typography](development/css/typography.md)
 
 ### Homebrewing
 
-- [instructions](homebrewing_instructions_index.md)
-  - [extract brewing](extract_brewing_instructions.md)
-- [recipes](homebrewing_recipes_index.md)
+- [instructions](homebrewing/instructions/index.md)
+  - [extract brewing](homebrewing/instructions/extract_brewing_instructions.md)
+- [recipes](homebrewing/recipes/index.md)

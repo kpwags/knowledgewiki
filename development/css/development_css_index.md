@@ -1,3 +1,0 @@
-# CSS
-
-- [Typeography](typography.md)
