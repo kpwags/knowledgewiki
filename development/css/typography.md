@@ -7,3 +7,7 @@
 - Pay attention to how many characters are in a line of text and aim for 45 and 75 characters long (including punctuation and spaces). Doing so reduces reading fatigue for your users by limiting the eye and head movement needed to follow a line of text. With the variable nature of the web, it’s impossible to completely control line length, but you can use max-width values and breakpoints to prevent lines of text from getting too long. Generally speaking, the shorter the line of text, the faster it will be to scan for quick reading. And don’t worry too much about counting the characters in every line. Once you do it a few times, you’ll develop a sense for what looks right.
 
 Source: [CSS Tricks](https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/)
+
+## Variable Fonts
+
+- [Variable Fonts Primer](https://variablefonts.io/)
