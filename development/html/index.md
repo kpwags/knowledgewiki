@@ -1,4 +1,4 @@
 # HTML
 
-- [Numeric Input](html/numeric_input.md)
-- [One-Time Password Fields](html/one_time_password_fields.md)
+-   [Numeric Input](numeric_input.md)
+-   [One-Time Password Fields](one_time_password_fields.md)
